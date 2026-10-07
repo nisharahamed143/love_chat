@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361858210211",
+    "project_id": "chatwithlove-b69d2",
+    "storage_bucket": "chatwithlove-b69d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361858210211:android:e170befce54abfe38d6216",
+        "android_client_info": {
+          "package_name": "com.example.chat_with_love"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8u4oHeLivY-RPvOjkcFcA1xxS7RjdJ3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
